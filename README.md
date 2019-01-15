@@ -8,4 +8,4 @@ The task is to build a classifier that categorize the music into 10 genres based
 - [Final paper](https://github.com/RongSH/music-genre-classification/blob/master/Machine_learning_basic_principles.pdf)
 - [Kaggle competition page](https://www.kaggle.com/c/mlbp-2017-da-challenge-accuracy/leaderboard)
 
-Unfortunately my codes are forever gone with damaged computer, and I was too inexperienced to learn to use the amazing github.
+Unfortunately my codes are forever gone with damaged computer, and I was too inexperienced to back it up in github.
